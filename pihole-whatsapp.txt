@@ -33,6 +33,8 @@
 0.0.0.0 e17.whatsapp.net
 0.0.0.0 crashlogs.whatsapp.net
 0.0.0.0 mmg-fna.whatsapp.net
+0.0.0.0 mmg.whatsapp.net
+0.0.0.0 mmx-ds.cd.whatsapp.net
 
 0.0.0.0 whatsapp.net
 0.0.0.0 whatsapp.net
