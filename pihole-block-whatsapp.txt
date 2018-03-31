@@ -35,6 +35,7 @@
 0.0.0.0 mmg-fna.whatsapp.net
 0.0.0.0 mmg.whatsapp.net
 0.0.0.0 mmx-ds.cd.whatsapp.net
+0.0.0.0 mmx-fb.cdn.whatsapp.net
 
 0.0.0.0 whatsapp-cdn-shv-01-atl1.fbcdn.net
 0.0.0.0 whatsapp-cdn-shv-01-dfw1.fbcdn.net
